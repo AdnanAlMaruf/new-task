@@ -2,7 +2,7 @@
 
 ## Installation
 Clone the repository
-    git@github.com:AdnanAlMaruf/new-task.git
+    git clone https://github.com/AdnanAlMaruf/new-task.git
 Switch to the repo folder
 
     cd laravel-realworld-example-app
@@ -31,7 +31,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:AdnanAlMaruf/new-task.git
+    git clone https://github.com/AdnanAlMaruf/new-task.git
     cd laravel-realworld-example-app
     composer install
     cp .env.example .env
